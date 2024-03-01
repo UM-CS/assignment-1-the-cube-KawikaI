@@ -1,3 +1,5 @@
+// this is the central method to cube.java. it manipulates the cube based on the input
+
 // method to configure the cube
     public void configCube(String input) {
         if ("r".equals(input)) {
